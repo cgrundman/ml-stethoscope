@@ -9,8 +9,8 @@ Christian Grundman
 Julian Dahl
 
 ### Contact Information:
-Till Strunk:
-Christian Grundman:
+Till Strunk: 
+Christian Grundman: christian.grundman@gmail.com
 Julian Dahl:
 
 ### Course:
