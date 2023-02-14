@@ -23,5 +23,5 @@ WiSe2223
 Data is publically available from kaggle.com. The dataset and more projects using the dataset can be found here:
 https://www.kaggle.com/datasets/vbookshelf/respiratory-sound-database?datasetId=110374&sortBy=voteCount
 
-### website:
+### Website:
 There is no website for this project. All information can be found in this repsoitory.
