@@ -4,13 +4,13 @@
 This project served a basic starting point to creating a stethoscope combined with machine learning. 
 
 ### Participants:
-Till Strunk
-Christian Grundman
-Julian Dahl
+Till Strunk <br />
+Christian Grundman <br />
+Julian Dahl 
 
 ### Contact Information:
-Till Strunk: till.strunk@stud.th-luebeck.com
-Christian Grundman: christian.grundman@gmail.com
+Till Strunk: till.strunk@stud.th-luebeck.com <br />
+Christian Grundman: christian.grundman@gmail.com <br />
 Julian Dahl:
 
 ### Course:
