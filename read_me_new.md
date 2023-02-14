@@ -9,7 +9,7 @@ Christian Grundman
 Julian Dahl
 
 ### Contact Information:
-Till Strunk: 
+Till Strunk: till.strunk@stud.th-luebeck.com
 Christian Grundman: christian.grundman@gmail.com
 Julian Dahl:
 
